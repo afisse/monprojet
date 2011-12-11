@@ -12,4 +12,20 @@ git add <file>
 git commit -m "<message>"
 git push
 
+<<<<<<< HEAD
 git pull // update
+=======
+git pull // download other's modifications
+
+git status // get informations
+
+git branch // list all branches
+git branch <new_branch> // create branch
+git checkout <new_branch> // change current branch 
+git push -u origin <new_branch> // upload branch on server
+git stash // leave current branch without commit
+git stash apply // recover branch state witout commit
+
+git checkout <branch>
+git merge <new_branch>
+>>>>>>> slave
