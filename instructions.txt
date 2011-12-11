@@ -18,4 +18,5 @@ git status // get informations
 
 git branch // list all branches
 git branch <new_branch> // create branch
-git checkout <new_branch> // change current branch
+git checkout <new_branch> // change current branch 
+git push -u origin <new_branch> // upload branch on server
