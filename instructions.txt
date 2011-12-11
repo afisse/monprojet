@@ -12,10 +12,10 @@ git add <file>
 git commit -m "<message>"
 git push
 
-git pull // update
-azefazefazef
-aze
-fa
-zef
-az
-ef
+git pull // download other's modifications
+
+git status // get informations
+
+git branch // list all branches
+git branch <new_branch> // create branch
+git checkout <new_branch> // change current branch
