@@ -12,9 +12,6 @@ git add <file>
 git commit -m "<message>"
 git push
 
-<<<<<<< HEAD
-git pull // update
-=======
 git pull // download other's modifications
 
 git status // get informations
@@ -28,4 +25,3 @@ git stash apply // recover branch state witout commit
 
 git checkout <branch>
 git merge <new_branch>
->>>>>>> slave
